@@ -1,9 +1,11 @@
 #include "iostream"
 
-using namespace std;  
+using namespace std;
+  
 int main(){ 
   
   double n,jumlah;  
+
   double eth[10],rata; 
   
  cin>>n; 
