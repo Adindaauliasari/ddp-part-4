@@ -23,6 +23,7 @@ int main(){
  } 
     cout <<endl; 
     rata = jumlah/n; 
+    
  cout<<"rata-rata   : " << rata; 
  cout<<" ETH"; 
  cout <<endl; 
