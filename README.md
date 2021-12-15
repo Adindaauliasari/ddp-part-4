@@ -23,6 +23,7 @@ int main()
    jumlah = jumlah + eth[i]; 
     
  } 
+ 
     cout <<endl; 
     rata = jumlah/n; 
     
