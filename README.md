@@ -33,6 +33,7 @@ int main()
  cout<<" ETH"; 
  cout <<endl; 
  cout<<"total ETH   : " << jumlah; 
+ }
  cout<<" ETH"; 
  cout <<endl; 
  cout<<"dalam USD   :$" <<jumlah*4000; 
