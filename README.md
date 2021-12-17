@@ -26,13 +26,14 @@ int main ()
     
  } 
  
-    cout <<endl; 
-    rata = jumlah/n; 
+ cout <<endl; 
+ rata = jumlah/n; 
     
  cout<<"rata-rata   : " << rata; 
  cout<<" ETH"; 
  cout <<endl; 
  cout<<"total ETH   : " << jumlah; 
+ }
  }
  cout<<" ETH"; 
  cout <<endl; 
