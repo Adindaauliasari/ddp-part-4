@@ -6,9 +6,9 @@ int main ()
 
 { 
   
-  double n,jumlah;  
+  double n, jumlah;  
 
-  double eth[10],rata; 
+  double eth[10] ,rata; 
   
  cin>>n; 
   
