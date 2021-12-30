@@ -1,5 +1,5 @@
 
-#include <iostream>
+#include "iostream"
 
 using namespace std ;
   
@@ -11,7 +11,7 @@ int main ()
 
   double eth[10] ,rata ; 
   
- cin>>n; 
+ cin >>n ; 
   
  for (int i=0;i<n;i++)
  
@@ -20,14 +20,14 @@ int main ()
  cin >> eth[i]; 
  } 
   
- jumlah=0; 
+ jumlah = 0; 
   
  for(int i=0;i<n;i++){ 
    jumlah = jumlah + eth[i]; 
     
  } 
  
- cout <<endl; 
+ cout << endl; 
  
  rata = jumlah/n; 
     
@@ -37,8 +37,8 @@ int main ()
  cout<<"total ETH   : " << jumlah; 
  }
  }
- cout<<" ETH"; 
- cout <<endl; 
- cout<<"dalam USD   :$" <<jumlah*4000; 
+ cout<< " ETH "; 
+ cout << endl; 
+ cout<< "dalam USD   :$" << jumlah*4000; 
   
 } 
