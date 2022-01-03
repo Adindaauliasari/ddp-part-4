@@ -9,7 +9,7 @@ int main ()
   
   double n, jumlah ;  
 
-  double eth[10] ,rata ; 
+  double eth [10] ,rata ; 
   
  cin >>n ; 
   
@@ -17,7 +17,7 @@ int main ()
  
  { 
    
- cin >> eth[i]; 
+ cin >> eth [i]; 
  } 
   
  jumlah = 0; 
@@ -29,12 +29,12 @@ int main ()
  
  cout << endl; 
  
- rata = jumlah/n; 
+ rata = jumlah/n ; 
     
- cout<<"rata-rata   : " << rata; 
- cout<<" ETH"; 
- cout <<endl; 
- cout<<"total ETH   : " << jumlah; 
+ cout<< "rata-rata   : " << rata; 
+ cout<< " ETH"; 
+ cout << endl; 
+ cout<< "total ETH   : " << jumlah; 
  }
  }
  cout<< " ETH "; 
