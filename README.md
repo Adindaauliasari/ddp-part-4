@@ -23,7 +23,7 @@ int main ()
  jumlah = 0; 
   
  for(int i=0;i<n;i++){ 
-   jumlah = jumlah + eth[i]; 
+   jumlah = jumlah + eth [i]; 
     
  } 
  
